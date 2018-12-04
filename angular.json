@@ -125,7 +125,7 @@
         "app-shell": {
           "builder": "@angular-devkit/build-angular:app-shell",
           "options": {
-            "browserTarget": "app-shell-demo:build",
+            "browserTarget": "app-shell-demo:build:production",
             "serverTarget": "app-shell-demo:server",
             "route": "app-shell-path"
           },
